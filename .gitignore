@@ -1,0 +1,34 @@
+# Dependencias
+/node_modules/
+
+# Archivos de log
+*.log
+*.tmp
+*.temp
+
+# Directorio del editor de código
+.vscode/
+.idea/
+*.sublime-*
+
+# Configuraciones específicas del entorno
+.env
+
+# Directorios de compilación
+dist/
+build/
+out/
+
+# Caché
+.cache/
+npm-debug.log
+yarn-error.log
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Directorios de pruebas
+coverage/
+.nyc_output/
+
